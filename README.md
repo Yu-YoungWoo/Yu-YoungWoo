@@ -7,6 +7,10 @@
 <img alt="JAVA" src ="https://img.shields.io/badge/JAVA-007396.svg?&style=flat&logo=java&logoColor=white"/>
 </p>
 -->
+
+![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+
+<br/><br/><br/>
 	
 ![lifeNewbi GitHub stats](https://github-readme-stats.vercel.app/api?username=lifeNewbi&show_icons=true&theme=default&count-private=true)
 
