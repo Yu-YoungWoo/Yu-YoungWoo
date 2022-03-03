@@ -8,7 +8,7 @@
 </p>
 -->
 	
-![lifeNewbi GitHub stats](https://github-readme-stats.vercel.app/api?username=lifeNewbi&show_icons=true&theme=default)
+![lifeNewbi GitHub stats](https://github-readme-stats.vercel.app/api?username=lifeNewbi&show_icons=true&theme=default&count-private=true)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lifeNewbi&layout=compact&theme=default&langs_count=8&count-private=true)](https://github.com/anuraghazra/github-readme-stats)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=taeuk14)](https://solved.ac/taeuk14)
