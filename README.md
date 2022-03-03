@@ -8,11 +8,16 @@
 </p>
 -->
 
-![header](https://capsule-render.vercel.app/api?type=wave&color=gradient&height=300&section=header&text=테스트!%20render&fontSize=90&fontColor=fff)
+
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=300&section=header&text=Hellow...&fontSize=60)
 
 <br/><br/><br/>
-	
-![lifeNewbi GitHub stats](https://github-readme-stats.vercel.app/api?username=lifeNewbi&show_icons=true&theme=default&count-private=true)
 
+<!--
+![lifeNewbi GitHub stats](https://github-readme-stats.vercel.app/api?username=lifeNewbi&show_icons=true&theme=default&count-private=true)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lifeNewbi&layout=compact&theme=default&langs_count=8&count-private=true)](https://github.com/anuraghazra/github-readme-stats)
+-->
+
+
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=taeuk14)](https://solved.ac/taeuk14)
+
