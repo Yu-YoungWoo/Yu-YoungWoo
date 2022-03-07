@@ -2,7 +2,7 @@
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=&fontSize=70&fontAlign=50&descAlign=50&descAlignY=50&animation=fadeIn&fontColor=" />
   
   
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi!+I'm+Young+Woo!;&center=true&vCenter=true&color=4FD3C4&font=Eurostile&size=30&width=700&height=100)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi!+I'm+Young+Woo!;&center=true&vCenter=true&color=4FD3C4&font=Lato&size=30&width=700&height=100)](https://git.io/typing-svg)
 
 
 <h2 align = "center"><b>🛠 Skills! </b></h2>
