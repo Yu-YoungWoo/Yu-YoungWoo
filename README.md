@@ -6,7 +6,7 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi!+I'm+Young+Woo!;&center=true&vCenter=true&color=4FD3C4&font=Fredoka&size=30&width=700&height=100)](https://git.io/typing-svg)
 
 
-<h2 align = "center"><b>🛠 Skills! </b></h2>
+<h2 align = "center"><b>📖 Skills! </b></h2>
 <p align = "center">
   <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
@@ -23,7 +23,7 @@
 </br></br>
 
 
-<h2><b> Tools <b></h2>
+<h2><b>🛠 Tools <b></h2>
 <p align = "center">
   <img alt="NOTION" src ="https://img.shields.io/badge/NOTION-000000.svg?&style=for-the-badge&logo=notion&logoColor=white"/>
 </p>
