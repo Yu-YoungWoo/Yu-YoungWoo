@@ -33,9 +33,9 @@
  
 <h2><b>🧾 History <b></h2>
 
-![lifeNewbi GitHub stats](https://github-readme-stats.vercel.app/api?username=lifeNewbi&show_icons=true&theme=ayu-mirage&count-private=true)
+![Yu-YoungWoo GitHub stats](https://github-readme-stats.vercel.app/api?username=Yu-YoungWoo&show_icons=true&theme=ayu-mirage&count-private=true)
 </br>
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=lifeNewbi&layout=compact&theme=ayu-mirage&langs_count=5&count-private=true)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yu-YoungWoo&layout=compact&theme=ayu-mirage&langs_count=5&count-private=true)
 [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=taeuk14)](https://solved.ac/taeuk14)
 
 
