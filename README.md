@@ -43,12 +43,26 @@
  
 <h2><b>🧾 History <b></h2>
   
-<!-- ![Yu-YoungWoo GitHub stats](https://github-readme-stats.vercel.app/api?username=Yu-YoungWoo&show_icons=true&theme=ayu-mirage&count-private=true)
-</br> -->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yu-YoungWoo&layout=compact&theme=ayu-mirage&langs_count=5&count-private=true)
-  </br>
-[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=taeuk14)](https://solved.ac/taeuk14)
+  <a href="#">
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yu-YoungWoo&show_icons=true&theme=ayu-mirage&count-private=true">
+  </a>
+  <a href="#">
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yu-YoungWoo&layout=compact&theme=ayu-mirage&langs_count=5&count-private=true">
+  </a>
 
+  <h2><b>BaekJoon</b></h2>
+  
+  <a href="https://solved.ac/profile/taeuk14">
+    <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=taeuk14">
+  </a>
+
+  
+<!--   [![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=taeuk14)](https://solved.ac/taeuk14) -->
+
+  <!-- ![Yu-YoungWoo GitHub stats](https://github-readme-stats.vercel.app/api?username=Yu-YoungWoo&show_icons=true&theme=ayu-mirage&count-private=true)
+</br>
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Yu-YoungWoo&layout=compact&theme=ayu-mirage&langs_count=5&count-private=true)
+ -->
 
 <!--
 <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=footer&fontAlign=50&descAlign=50&descAlignY=50" />
