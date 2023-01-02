@@ -48,7 +48,7 @@
            src="https://raw.githubusercontent.com/Yu-YoungWoo/github-stats-transparent/output/generated/overview.svg" width ="50.0%">
   </a>
   <a href ="#" align = "center">
-    <img src="https://raw.githubusercontent.com/Yu-YoungWoo/github-stats-transparent/output/generated/languages.svg" width="50.0%"/>
+    <img src="https://raw.githubusercontent.com/Yu-YoungWoo/github-stats-transparent/output/generated/languages.svg" width="50.0%" />
   </a>
 </div>
 
