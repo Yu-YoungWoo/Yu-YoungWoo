@@ -1,4 +1,4 @@
-<div align = "left">
+<div align = "center">
 <!--
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=150&section=header&text=&fontSize=70&fontAlign=50&descAlign=50&descAlignY=50&animation=fadeIn&fontColor=" />
 -->
@@ -49,7 +49,8 @@
   <a href="#">
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yu-YoungWoo&layout=compact&theme=ayu-mirage&langs_count=5&count-private=true">
   </a>
-
+  
+  
   <h2><b>BaekJoon</b></h2>
   
   <a href="https://solved.ac/profile/taeuk14">
