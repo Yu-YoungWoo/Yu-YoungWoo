@@ -42,12 +42,15 @@
 </br></br>
  
 <h2><b>🧾 History <b></h2>
-  <a href ="#" align = "center">
-    <img align="center" src="https://raw.githubusercontent.com/Yu-YoungWoo/github-stats-transparent/output/generated/overview.svg" width ="50.0%">
+<div style ="display: flex; flex: 2; flex-wrap: wrap; justify-content: space-between align-items: center"> 
+    <a href ="#" align = "center">
+      <img align="center" 
+           src="https://raw.githubusercontent.com/Yu-YoungWoo/github-stats-transparent/output/generated/overview.svg" width ="50.0%">
   </a>
   <a href ="#" align = "center">
     <img src="https://raw.githubusercontent.com/Yu-YoungWoo/github-stats-transparent/output/generated/languages.svg" width="50.0%"/>
   </a>
+</div>
 
 <!--   <a href="#">
     <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yu-YoungWoo&show_icons=true&theme=ayu-mirage&count-private=true">
