@@ -14,7 +14,8 @@
 <h2><b>📖 Study </b></h2>
 
 <p>
-  <img alt="Spring" src ="https://img.shields.io/badge/Spring-6DB33F.svg?&style=for-the-badge&logo=spring&logoColor=white" />
+  <img alt="SpringBoot" src ="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white" />
+  <img alt="Thymeleaf" src ="https://img.shields.io/badge/Thymeleaf-005F0F.svg?&style=for-the-badge&logo=thymeleaf&logoColor=white" />
 </p>
 
 <h2><b>📖 Skills </b></h2>
@@ -24,31 +25,31 @@
   <img alt="JS" src ="https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
   </br>
   <img alt="C" src ="https://img.shields.io/badge/C-A8B9CC.svg?&style=for-the-badge&logo=C&logoColor=white"/>
-  <img alt="JAVA" src ="https://img.shields.io/badge/JAVA-007396.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+  <img alt="JAVA" src="https://img.shields.io/badge/JAVA-007396?style=for-the-badge&logo=java&logoColor=white">
+  </br>
   <img alt="MYSQL" src ="https://img.shields.io/badge/MYSQL-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img alt="Mariadb" src ="https://img.shields.io/badge/MARIADB-003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white"/>
   <img alt="MONGODB" src ="https://img.shields.io/badge/MONGODB-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
   </br>
+  <img alt="HEROKU" src ="https://img.shields.io/badge/HEROKU-430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
 </p>
-
-</br></br>
-
 
 <h2><b>🛠 Tools <b></h2>
 <p>
   <img alt="NOTION" src ="https://img.shields.io/badge/NOTION-000000.svg?&style=for-the-badge&logo=notion&logoColor=white"/>
+  <img alt="INTELLIJ" src ="https://img.shields.io/badge/INTELLIJ-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white"/>
 </p>
   
   
 </br></br>
  
 <h2><b>🧾 History <b></h2>
-<div style ="display: flex; flex: 2; flex-wrap: wrap; justify-content: space-between align-items: center"> 
-    <a href ="#" align = "center">
-      <img align="center" 
-           src="https://raw.githubusercontent.com/Yu-YoungWoo/github-stats-transparent/output/generated/overview.svg" width ="50.0%">
+<div> 
+    <a href ="#">
+      <img style="align:center" src="https://raw.githubusercontent.com/Yu-YoungWoo/github-stats-transparent/output/generated/overview.svg">
   </a>
-  <a href ="#" align = "center">
-    <img src="https://raw.githubusercontent.com/Yu-YoungWoo/github-stats-transparent/output/generated/languages.svg" width="50.0%" />
+  <a href ="#">
+    <img style="align:center" src="https://raw.githubusercontent.com/Yu-YoungWoo/github-stats-transparent/output/generated/languages.svg" >
   </a>
 </div>
 
