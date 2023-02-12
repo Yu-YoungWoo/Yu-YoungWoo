@@ -53,20 +53,14 @@
   </a>
 </div>
 
-<!--   <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=Yu-YoungWoo&show_icons=true&theme=ayu-mirage&count-private=true">
-  </a>
-  <a href="#">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yu-YoungWoo&layout=compact&theme=ayu-mirage&langs_count=5&count-private=true">
-  </a> 
--->
-  
-  
-  <h2><b>BaekJoon</b></h2>
-  
-  <a href="https://solved.ac/profile/taeuk14">
-    <img align="center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=taeuk14">
-  </a>
+</br></br>
+
+<h2><b>BaekJoon</b></h2>
+
+<a href="https://solved.ac/profile/taeuk14">
+  <img style="align:center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=taeuk14">
+</a>
+
 
   
 
