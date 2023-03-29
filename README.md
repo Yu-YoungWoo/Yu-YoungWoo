@@ -55,11 +55,11 @@
 
 </br></br>
 
-<h2><b>BaekJoon</b></h2>
+<!-- <h2><b>BaekJoon</b></h2>
 
 <a href="https://solved.ac/profile/taeuk14">
   <img style="align:center" src="http://mazassumnida.wtf/api/v2/generate_badge?boj=taeuk14">
-</a>
+</a> -->
 
 
   
