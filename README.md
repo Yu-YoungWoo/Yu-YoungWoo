@@ -6,10 +6,10 @@
 [![Typing SVG](https://readme-typing-svg.herokuapp.com/?lines=Hi!+I'm+Young+Woo!;&center=true&vCenter=true&color=4FD3C4&font=Fredoka&size=30&width=700&height=100)](https://git.io/typing-svg) -->
   
 
-<h1>About Me</h1>
+<!-- <h1>About Me</h1> -->
   
 
-</br></br>
+<!-- </br></br> -->
 
 <h2><b>📖 Study </b></h2>
 
