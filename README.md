@@ -11,16 +11,16 @@
 
 <!-- </br></br> -->
 
-<h2><b>📖 Study </b></h2>
+<!-- <h2><b>📖 Study </b></h2>
 
-<p>
-  <img alt="SpringBoot" src ="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white" />
-<!--   <img alt="Thymeleaf" src ="https://img.shields.io/badge/Thymeleaf-005F0F.svg?&style=for-the-badge&logo=thymeleaf&logoColor=white" /> -->
-</p>
+<p align="center">
+<!--   <img alt="SpringBoot" src ="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white" />
+</p> -->
 
 <h2><b>📖 Skills </b></h2>
-<p>
-  <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+  
+<p align="center">
+  <!--   <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="JS" src ="https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
   </br>
@@ -31,13 +31,26 @@
   <img alt="Mariadb" src ="https://img.shields.io/badge/MARIADB-003545.svg?&style=for-the-badge&logo=mariadb&logoColor=white"/>
   <img alt="MONGODB" src ="https://img.shields.io/badge/MONGODB-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white"/>
   </br>
-  <img alt="HEROKU" src ="https://img.shields.io/badge/HEROKU-430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/>
+  <img alt="HEROKU" src ="https://img.shields.io/badge/HEROKU-430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/> -->
+  <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
+  </br>
+  <img src="https://skillicons.dev/icons?i=java,c,python" />
+  </br>
+  <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,androidstudio" />
+  </br>
+  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+  </br>
+  <img src="https://skillicons.dev/icons?i=heroku" />
 </p>
 
 <h2><b>🛠 Tools <b></h2>
 <p>
-  <img alt="NOTION" src ="https://img.shields.io/badge/NOTION-000000.svg?&style=for-the-badge&logo=notion&logoColor=white"/>
-  <img alt="INTELLIJ" src ="https://img.shields.io/badge/INTELLIJ-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white"/>
+<!--   <img alt="NOTION" src ="https://img.shields.io/badge/NOTION-000000.svg?&style=for-the-badge&logo=notion&logoColor=white"/>
+  <img alt="INTELLIJ" src ="https://img.shields.io/badge/INTELLIJ-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white"/> -->
+  <img src="https://skillicons.dev/icons?i=idea,vscode,eclipse" />
+  </br>
+  <img src="https://skillicons.dev/icons?i=postman,figma,github" />
+  </br>
 </p>
   
   
@@ -47,10 +60,10 @@
 <div> 
     <a href ="#">
       <img style="align:center" src="https://raw.githubusercontent.com/Yu-YoungWoo/github-stats-transparent/output/generated/overview.svg">
-  </a>
-  <a href ="#">
-    <img style="align:center" src="https://raw.githubusercontent.com/Yu-YoungWoo/github-stats-transparent/output/generated/languages.svg" >
-  </a>
+    </a>
+    <a href ="#">
+      <img style="align:center" src="https://raw.githubusercontent.com/Yu-YoungWoo/github-stats-transparent/output/generated/languages.svg" >
+    </a>
 </div>
 
 </br></br>
