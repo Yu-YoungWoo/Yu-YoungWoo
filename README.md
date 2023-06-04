@@ -47,7 +47,7 @@
 <p>
 <!--   <img alt="NOTION" src ="https://img.shields.io/badge/NOTION-000000.svg?&style=for-the-badge&logo=notion&logoColor=white"/>
   <img alt="INTELLIJ" src ="https://img.shields.io/badge/INTELLIJ-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white"/> -->
-  <img src="https://skillicons.dev/icons?i=idea,vscode,eclipse" />
+  <img src="https://skillicons.dev/icons?i=idea,vscode,visualstudio" />
   </br>
   <img src="https://skillicons.dev/icons?i=postman,figma,github" />
   </br>
