@@ -20,7 +20,7 @@
 <h2><b>📖 Skills </b></h2>
   
 <p align="center">
-  <!--   <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
+<!--     <img alt="HTML5" src ="https://img.shields.io/badge/HTML5-E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
   <img alt="CSS3" src ="https://img.shields.io/badge/CSS3-1572B6.svg?&style=for-the-badge&logo=css3&logoColor=white"/>
   <img alt="JS" src ="https://img.shields.io/badge/JAVASCRIPT-F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=black"/>
   </br>
@@ -34,22 +34,28 @@
   <img alt="HEROKU" src ="https://img.shields.io/badge/HEROKU-430098.svg?&style=for-the-badge&logo=heroku&logoColor=white"/> -->
   <img src="https://skillicons.dev/icons?i=html,css,js,bootstrap" />
   </br>
-  <img src="https://skillicons.dev/icons?i=java,c,python" />
+  <img src="https://skillicons.dev/icons?i=java,spring" />
   </br>
-  <img src="https://skillicons.dev/icons?i=spring,hibernate,nodejs,androidstudio" />
+  <img src="https://skillicons.dev/icons?i=jquery" />
   </br>
-  <img src="https://skillicons.dev/icons?i=mysql,mongodb" />
+<!--   <img src="https://skillicons.dev/icons?i=c" />
+  <img src="https://skillicons.dev/icons?i=python" /> -->
+<!--   <img src="https://skillicons.dev/icons?i=hibernate" />
+  <img src="https://skillicons.dev/icons?i=nodejs" />
+  <img src="https://skillicons.dev/icons?i=androidstudio" /> -->
   </br>
-  <img src="https://skillicons.dev/icons?i=heroku" />
+  <img src="https://skillicons.dev/icons?i=mysql" />
+  </br>
+<!--   <img src="https://skillicons.dev/icons?i=heroku" /> -->
 </p>
 
 <h2><b>🛠 Tools <b></h2>
 <p>
 <!--   <img alt="NOTION" src ="https://img.shields.io/badge/NOTION-000000.svg?&style=for-the-badge&logo=notion&logoColor=white"/>
   <img alt="INTELLIJ" src ="https://img.shields.io/badge/INTELLIJ-000000.svg?&style=for-the-badge&logo=intellijidea&logoColor=white"/> -->
-  <img src="https://skillicons.dev/icons?i=idea,vscode,visualstudio" />
+  <img src="https://skillicons.dev/icons?i=vscode,eclipse" />
   </br>
-  <img src="https://skillicons.dev/icons?i=postman,figma,github" />
+  <img src="https://skillicons.dev/icons?i=postman,github" />
   </br>
 </p>
   
@@ -67,6 +73,7 @@
 </div>
 
 </br></br>
+
 
 <!-- <h2><b>BaekJoon</b></h2>
 
