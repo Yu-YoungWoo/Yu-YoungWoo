@@ -17,6 +17,11 @@
 <!--   <img alt="SpringBoot" src ="https://img.shields.io/badge/SpringBoot-6DB33F.svg?&style=for-the-badge&logo=springboot&logoColor=white" />
 </p> -->
 
+<h2><b>👋🏼 Introduce </b></h2>
+<strong>안녕하세요</strong> </br>
+Java와 Spring에 관심이 많은 주니어 개발자입니다. 
+
+
 <h2><b>📖 Skills </b></h2>
   
 <p align="center">
