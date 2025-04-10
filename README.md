@@ -1,8 +1,9 @@
 <div align = "center">
 
+<!-- 
 <h2><b>👋🏼 Introduce </b></h2>
 <strong>안녕하세요</strong> </br>
-
+-->
 <h2><b>📖 Skills </b></h2>
   
 <p align="center">
